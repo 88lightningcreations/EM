@@ -1,3 +1,27 @@
+import { MetadataRoute } from 'next'
+
+export default function sitemap(): MetadataRoute.Sitemap {
+  const baseUrl = 'https://em-phi-three.vercel.app/'
+  
+  const routes = [
+    '',
+    '/about',
+    '/services',
+    '/contact',
+    '/faq',
+    '/blog',
+    '/privacy-policy',
+    '/terms-of-service',
+  ].map((route) => ({
+    url: `${baseUrl}${route}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: route === '' ? 1 : 0.8,
+  }))
+
+  return routes
+}
+
 export const faqData = [
   {
     question:"How much is a residential air conditioning service call?",
