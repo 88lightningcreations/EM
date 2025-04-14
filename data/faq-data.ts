@@ -17,7 +17,7 @@ export const faqData = [
     {
       question: "How long does an HVAC system typically last?",
       answer:
-        "With proper maintenance, an HVAC system typically lasts 15-20 years. However, this can vary based on usage patterns, local climate, and how well the system is maintained.",
+        "With proper maintenance, an HVAC system typically lasts 10-15 years. However, this can vary based on usage patterns, local climate, and how well the system is maintained.",
     },
     {
       question: "What size HVAC system do I need for my home?",
@@ -32,7 +32,7 @@ export const faqData = [
     {
       question: "How can I improve my indoor air quality?",
       answer:
-        "You can improve indoor air quality by regularly changing air filters, installing air purifiers or UV lights, ensuring proper ventilation, using a humidifier or dehumidifier as needed, and scheduling regular duct cleaning.",
+        "You can improve indoor air quality by regularly changing air filters, installing air purifiers or UV lights, ensuring proper ventilation, using a humidifier or dehumidifier as needed, and scheduling regular duct sealing.",
     },
     {
       question: "What's the difference between a heat pump and a furnace?",
