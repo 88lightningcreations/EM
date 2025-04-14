@@ -27,7 +27,7 @@ export const faqData = [
     {
       question: "Common repair costs?",
       answer: 
-        "Our clients usually pay no more than $100-$300 for their common fixes!",
+        "Our clients usually pay between $100-$300 for their common fixes!",
     },
     {
       question: "How can I improve my indoor air quality?",
