@@ -89,7 +89,7 @@ export default function Home() {
               }}
             >
               <h1 className="text-white display-3 fw-bold mb-3">Emergency A/C</h1>
-              <p className="text-white">Your HVAC doctors are ready to heal your home comfort needs</p>
+              <p className="text-white">With such great care it can only be E+M Emergency Air!</p>
             </div>
           </div>
         </SEOBackgroundImage>
