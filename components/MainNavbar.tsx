@@ -48,14 +48,14 @@ export default function MainNavbar() {
         </Navbar.Collapse>
         <Nav className="ms-auto">
           <Nav.Link
-            href="mailto:Info@EmergencyAC.com"
+            href="mailto:Info@EmergencyAC.org"
             className="me-3"
             style={{
               color: themeColors.blue,
               fontWeight: "bold",
             }}
           >
-            Info@EmergencyAC.com
+            Info@EmergencyAC.org
           </Nav.Link>
           <Nav.Link
             href="tel:5122415837"
