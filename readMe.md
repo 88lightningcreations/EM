@@ -1,5 +1,5 @@
 # Welcome to E+M Emergency A/C!
-* Email: info@emergencyac@gmail.com
+* Email: info@emergencyac.org
 * Phone: 1 (512) 241-5837
 
 Welcome! We're dedicated to keeping your home or business comfortable year-round. Whether you're battling the Texas heat or need to stay cozy during the cooler months, we've got you covered.
