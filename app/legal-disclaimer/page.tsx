@@ -32,6 +32,8 @@ export default function LegalDisclaimer() {
       <h2>Contact Us</h2>
       <p>If you have any questions about this Legal Disclaimer, please contact us:</p>
       <p>
+        Regulated by The Texas Department of Licensing and Regulation
+        <br />
         E+M Emergency Air Conditioning LLC
         <br />
         464 Commercial Dr Ste A<br />
